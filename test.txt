@@ -1,2 +1,3 @@
 This is a test for inclass 3_1.
 Edit 2
+Edit after cloning.
